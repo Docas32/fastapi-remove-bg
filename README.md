@@ -13,7 +13,7 @@ Este projeto combina **FastAPI** (backend) e **Streamlit** (frontend) para remov
 
 ---
 
-## 📦 Instalação
+##  Instalação
 
 1. Clone este repositório:
    ```bash
