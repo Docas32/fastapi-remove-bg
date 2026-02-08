@@ -1,6 +1,5 @@
-fastapi
-uvicorn
+streamlit
 rembg
 pillow
+# onnxruntime é opcional se o rembg já instalar, mas bom manter para garantir performance
 onnxruntime
-streamlit
