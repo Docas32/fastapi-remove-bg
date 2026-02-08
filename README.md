@@ -18,3 +18,15 @@ Este projeto utiliza **Streamlit** e a biblioteca **rembg** para remover o fundo
    git clone [https://github.com/seu-usuario/seu-repo.git](https://github.com/seu-usuario/seu-repo.git)
    cd seu-repo
 
+
+# Windows
+python -m venv env
+env\Scripts\activate
+
+# Linux/Mac
+python3 -m venv env
+source env/bin/activate
+
+pip install -r requirements.txt
+
+streamlit run streamlit_app.py
